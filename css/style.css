@@ -1,0 +1,227 @@
+@import url("../node_modules/shabnam-font/dist/font-face.css");
+@import url("../node_modules/@fortawesome/fontawesome-free/css/all.css");
+.font0 {
+  font-size: 0.2rem;
+}
+
+.font1 {
+  font-size: 0.4rem;
+}
+
+.font2 {
+  font-size: 0.6rem;
+}
+
+.font3 {
+  font-size: 0.8rem;
+}
+
+.font4 {
+  font-size: 1rem;
+}
+
+.font5 {
+  font-size: 1.2rem;
+}
+
+.font6 {
+  font-size: 1.4rem;
+}
+
+.font7 {
+  font-size: 1.6rem;
+}
+
+.font8 {
+  font-size: 1.8rem;
+}
+
+.text-white {
+  font: white;
+  color: white;
+}
+
+.text-light {
+  font: #eee;
+  color: #eee;
+}
+
+.text-dark {
+  font: #111111;
+  color: #111111;
+}
+
+.bg-default {
+  background-color: white;
+}
+
+.border-round-default {
+  border-radius: 0.5rem;
+}
+
+* {
+  font-family: "Shabnam", sans-serif;
+  text-align: right;
+}
+
+body {
+  background: #ebebeb !important;
+}
+
+.navbar {
+  background-color: #c63028 !important;
+  height: 2rem;
+}
+
+.banner {
+  background-color: #333333 !important;
+  height: 12rem;
+}
+
+ion-icon {
+  color: white;
+}
+
+.menu {
+  background-color: #c63028 !important;
+  border-radius: 0.5rem;
+  height: 3rem;
+}
+
+.menu-ul {
+  list-style-type: none;
+}
+
+.menu-item {
+  display: inline-block;
+  margin-left: 0.4rem;
+}
+
+.widget-pishnahad {
+  border-right: 7px solid #940404 !important;
+}
+
+.title-primary {
+  background: rgba(250, 250, 250, 0.965);
+  border-right: 2px solid #940404;
+  color: black;
+  height: 2.5rem;
+}
+
+.item-primary-ul {
+  list-style: none;
+}
+
+.item-primary {
+  background: rgba(239, 255, 244, 0.452);
+  list-style: none;
+  border-left: 5px solid #940404;
+  border-right: 2px solid #940404;
+  text-decoration: none !important;
+  color: black;
+  height: 2rem;
+  margin-right: 0.2rem;
+  margin-left: 0.2rem;
+  margin-bottom: 0.4rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: justify !important;
+      -ms-flex-pack: justify !important;
+          justify-content: space-between !important;
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+.item-primary a {
+  text-decoration: none;
+  color: black;
+  padding-right: 0.3rem;
+}
+
+.item-primary:hover {
+  color: rgba(255, 0, 0, 0.438);
+}
+
+.item-primary:hover .item-primary-badge {
+  color: rgba(255, 0, 0, 0.438) !important;
+}
+
+.item-primary-badge {
+  background: rgba(53, 53, 53, 0.472) !important;
+  color: white !important;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.sidebar {
+  border-right: 7px solid #940404 !important;
+}
+
+.post-standard {
+  padding: 1rem !important;
+  border-right: 7px solid #940404 !important;
+}
+
+.title-post-standard {
+  border-right: 2px solid #940404 !important;
+  border-bottom: 0.3px solid rgba(0, 0, 0, 0.246) !important;
+  margin-bottom: 5px;
+  padding-right: 0.4rem;
+}
+
+.title-post-standard h5 a {
+  color: rgba(56, 56, 56, 0.664);
+}
+
+.post-main-content {
+  padding: 2rem 0;
+}
+
+.post-main-content p {
+  text-align: center;
+}
+
+.post-btn-standard {
+  background: rgba(255, 0, 0, 0.274);
+  padding: 0.8rem 1.3rem !important;
+  border-radius: 25px !important;
+  margin: 1.5rem 0 !important;
+  margin-right: auto !important;
+}
+
+.post-footer {
+  border-top: 0.3px solid rgba(0, 0, 0, 0.37) !important;
+  padding-top: 0.4rem;
+}
+
+.post-footer-item {
+  margin-left: 0.7rem;
+}
+
+footer {
+  width: 100%;
+  height: 2.5rem;
+  background: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+footer a {
+  color: #eee;
+}
+
+footer a:hover {
+  color: rgba(255, 0, 0, 0.274);
+}
+/*# sourceMappingURL=style.css.map */

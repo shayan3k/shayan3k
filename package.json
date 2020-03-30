@@ -1,0 +1,16 @@
+{
+  "name": "arcade",
+  "version": "1.0.0",
+  "description": "another persian theme\t",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShayaN3k",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.4.1",
+    "shabnam-font": "^5.0.0"
+  }
+}

@@ -1,0 +1,188 @@
+@import "variables";
+@import "config";
+@import url("../node_modules/shabnam-font/dist/font-face.css");
+@import url("../node_modules/@fortawesome/fontawesome-free/css/all.css");
+
+* {
+  font-family: "Shabnam", sans-serif;
+  text-align: right;
+}
+
+body {
+  background: $brand-background !important;
+}
+///////////////////
+//navbar
+///////////////////
+.navbar {
+  background-color: $brand-navbar !important;
+  height: 2rem;
+}
+
+///////////////////
+//banner
+///////////////////
+.banner {
+  background-color: $brand-banner !important;
+  height: 12rem;
+}
+
+ion-icon {
+  color: white;
+}
+
+///////////////////
+//menu
+///////////////////
+
+.menu {
+  background-color: $brand-navbar !important;
+  border-radius: 0.5rem;
+  height: 3rem;
+}
+
+.menu-ul {
+  list-style-type: none;
+}
+
+.menu-item {
+  display: inline-block;
+  margin-left: 0.4rem;
+}
+
+///////////////////
+//widget area
+///////////////////
+.widget-pishnahad {
+  border-right: 7px solid $brand-title-border !important;
+}
+
+.title-primary {
+  background: $brand-title-primary;
+  // border-left: 5px solid $brand-title-border;
+  border-right: 2px solid $brand-title-border;
+  color: $brand-title-primary-text;
+  height: 2.5rem;
+}
+
+.item-primary-ul {
+  list-style: none;
+}
+
+.item-primary {
+  background: $brand-items-primary;
+  list-style: none;
+  border-left: 5px solid $brand-title-border;
+  border-right: 2px solid $brand-title-border;
+  text-decoration: none !important;
+  color: $brand-item-primary-text;
+  height: 2rem;
+  margin-right: 0.2rem;
+  margin-left: 0.2rem;
+  margin-bottom: 0.4rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  a {
+    text-decoration: none;
+    color: $brand-item-primary-text;
+    padding-right: 0.3rem;
+  }
+  &:hover {
+    color: $brand-item-primary-text-hover;
+    .item-primary-badge {
+      color: $brand-item-primary-text-hover !important;
+    }
+  }
+}
+
+.item-primary-badge {
+  background: $brand-item-primary-badge !important;
+  color: $brand-item-primary-badge-text !important;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+///////////////////
+//sidebar
+///////////////////
+.sidebar {
+  border-right: 7px solid $brand-title-border !important;
+}
+
+///////////////////
+//post
+///////////////////
+
+.post {
+}
+
+.post-standard {
+  padding: 1rem !important;
+  border-right: 7px solid $brand-title-border !important;
+}
+
+.title-post {
+}
+
+.title-post-standard {
+  border-right: 2px solid $brand-title-border !important;
+  border-bottom: 0.3px solid rgba(0, 0, 0, 0.246) !important;
+  margin-bottom: 5px;
+  padding-right: 0.4rem;
+
+  h1 {
+    //
+  }
+
+  h5 {
+    a {
+      color: rgba(56, 56, 56, 0.664);
+    }
+  }
+}
+
+.post-main-content {
+  padding: 2rem 0;
+  p {
+    text-align: center;
+  }
+}
+
+.post-btn-standard {
+  background: $brand-post-btn-standard;
+  padding: 0.8rem 1.3rem !important;
+  border-radius: 25px !important;
+  margin: 1.5rem 0 !important;
+  margin-right: auto !important;
+}
+
+.post-footer {
+  border-top: 0.3px solid rgba(0, 0, 0, 0.37) !important;
+  padding-top: 0.4rem;
+}
+
+.post-footer-item {
+  margin-left: 0.7rem;
+}
+
+////////////////////
+//Footer
+////////////////////
+
+footer {
+  width: 100%;
+  height: 2.5rem;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    color: $brand-footer-text;
+    &:hover {
+      color: $brand-footer-text-hover;
+    }
+  }
+}
