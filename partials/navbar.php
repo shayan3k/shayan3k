@@ -2,7 +2,6 @@
 
     <div class="container mx-auto row m-0 p">
 
-        <a class="navbar-brand font4 text-white" href="#">برند</a>
         <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,5 +27,7 @@
                 </li>
             </ul>
         </div>
+        <a class="navbar-brand font4 text-white" href="#">برند</a>
+
     </div>
 </nav>

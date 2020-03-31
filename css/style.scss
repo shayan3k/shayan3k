@@ -121,7 +121,8 @@ ion-icon {
 
 .post-standard,
 .post-single,
-.tags {
+.tags,
+.comments {
   padding: 1rem !important;
   border-right: 7px solid $brand-title-border !important;
 }
@@ -314,6 +315,22 @@ ion-icon {
 
 .info-box {
   border: 1px solid black;
+}
+
+///////////////////
+//comment
+///////////////////
+
+.comments-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid $brand-post-comment-section !important;
+  h1 {
+    margin: 0;
+    display: inline-block;
+    background-color: $brand-post-comment-section !important;
+    color: $brand-post-comment-section-text !important;
+    padding: 0.8rem 1.3rem !important;
+  }
 }
 
 ////////////////////

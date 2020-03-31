@@ -163,7 +163,8 @@ ion-icon {
 
 .post-standard,
 .post-single,
-.tags {
+.tags,
+.comments {
   padding: 1rem !important;
   border-right: 7px solid #940404 !important;
 }
@@ -377,6 +378,19 @@ ion-icon {
 
 .info-box {
   border: 1px solid black;
+}
+
+.comments-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid #fb90ff !important;
+}
+
+.comments-section-header h1 {
+  margin: 0;
+  display: inline-block;
+  background-color: #fb90ff !important;
+  color: white !important;
+  padding: 0.8rem 1.3rem !important;
 }
 
 footer {

@@ -82,5 +82,9 @@
 
 <div class="tags bg-default mt-3 p-1 rounded shadow">
     <h1 class='font2'> برچسب‌ها:گام به گام نهم, عربی نهم, گام به گام عربی نهم </h1>
-
 </div>
+
+<?php
+if (comments_open() || get_comments_number()) :
+    comments_template();
+endif;
