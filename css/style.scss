@@ -333,6 +333,17 @@ ion-icon {
   }
 }
 
+#comment-submit {
+  padding: 0.8rem 2.3rem !important;
+  background-color: $brand-comment-submit;
+
+  &:hover {
+    background-color: $brand-comment-submit-hover;
+  }
+}
+#reply-title {
+  margin: 1.3rem 0;
+}
 ////////////////////
 //Footer
 ////////////////////

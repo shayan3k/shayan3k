@@ -393,6 +393,19 @@ ion-icon {
   padding: 0.8rem 1.3rem !important;
 }
 
+#comment-submit {
+  padding: 0.8rem 2.3rem !important;
+  background-color: #ba60f6;
+}
+
+#comment-submit:hover {
+  background-color: rgba(186, 96, 246, 0.739);
+}
+
+#reply-title {
+  margin: 1.3rem 0;
+}
+
 footer {
   width: 100%;
   height: 2.5rem;

@@ -51,18 +51,19 @@ if (post_password_required() || !comments_open())
         comment_form($args); ?>
 
 
+        <hr>
+        <?php
 
+        require_once(get_template_directory() . '/class/walker_comment.php');
 
-        <ol class="comment-list">
-            <?php
-            wp_list_comments(array(
-                'style'       => 'ol',
-                'short_ping'  => true,
-                'avatar_size' => 74,
-            ));
-            ?>
-        </ol><!-- .comment-list -->
-
+        wp_list_comments(
+            array(
+                'walker' => new Custom_Walker_Comment(),
+                'short_ping' => true,
+                'style' => 'ol',
+            )
+        );
+        ?>
         <?php
         // Are there comments to navigate through?
         if (get_comment_pages_count() > 1 && get_option('page_comments')) :
