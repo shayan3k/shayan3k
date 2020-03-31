@@ -161,7 +161,9 @@ ion-icon {
   border-right: 7px solid #940404 !important;
 }
 
-.post-standard {
+.post-standard,
+.post-single,
+.tags {
   padding: 1rem !important;
   border-right: 7px solid #940404 !important;
 }
@@ -200,6 +202,181 @@ ion-icon {
 
 .post-footer-item {
   margin-left: 0.7rem;
+}
+
+.download-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid #4462a7 !important;
+}
+
+.download-section-header span {
+  display: inline-block;
+  background-color: #4462a7 !important;
+  color: white !important;
+  padding: 0.8rem 1.3rem !important;
+}
+
+.download-section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.download-section .btn-download {
+  margin-top: 1rem;
+  padding: 0.8rem 4rem;
+  background-color: #4462a7;
+  color: white;
+  cursor: pointer;
+}
+
+.download-section .btn-download:hover {
+  background-color: rgba(68, 98, 167, 0.561);
+}
+
+.error-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid #c52c2c !important;
+}
+
+.error-section-header span {
+  display: inline-block;
+  background-color: #c52c2c !important;
+  color: white !important;
+  padding: 0.8rem 1.3rem !important;
+}
+
+.error-section .error-link {
+  color: #c52c2c !important;
+  text-decoration: none !important;
+}
+
+.advertisment-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid #5cf5a9 !important;
+}
+
+.advertisment-section-header span {
+  display: inline-block;
+  background-color: #5cf5a9 !important;
+  color: white !important;
+  padding: 0.8rem 1.3rem !important;
+}
+
+.info-section-header {
+  width: 100% !important;
+  border-bottom: 2px solid #f5de5c !important;
+}
+
+.info-section-header span {
+  display: inline-block;
+  background-color: #f5de5c !important;
+  color: white !important;
+  padding: 0.8rem 1.3rem !important;
+}
+
+.info-section .social-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.info-section .social-items .item {
+  margin-left: 0.7rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  border: 1px solid #acacac;
+  border-left: 2px solid #c63028;
+  cursor: pointer;
+  -webkit-transition: all 320ms;
+  transition: all 320ms;
+}
+
+.info-section .social-items .item:hover {
+  background: rgba(63, 63, 63, 0.541);
+}
+
+.info-section .social-items .item:hover > .text {
+  font-weight: 900;
+}
+
+.info-section .social-items .item-fb {
+  background: #279eff;
+  color: white;
+  padding: 0;
+}
+
+.info-section .social-items .item-fb .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1rem 1rem;
+  height: 100%;
+}
+
+.info-section .social-items .item-fb .text {
+  margin: 0;
+  padding: 1rem 1.3rem;
+  display: inline-block;
+  background: white;
+  height: 100% !important;
+  color: black;
+}
+
+.info-section .social-items .item-insta {
+  background: #e2922a;
+  color: white;
+  padding: 0;
+}
+
+.info-section .social-items .item-insta .icon {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1rem 1rem;
+  height: 100%;
+}
+
+.info-section .social-items .item-insta .text {
+  margin: 0;
+  padding: 1rem 1.3rem;
+  display: inline-block;
+  background: white;
+  height: 100% !important;
+  color: black;
+}
+
+.info-box {
+  border: 1px solid black;
 }
 
 footer {
