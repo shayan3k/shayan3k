@@ -29,19 +29,19 @@ if (post_password_required() || !comments_open())
 
             'fields' => array(
 
-                'email' =>
-                '<p class="form-group d-inline-block col-12 col-md-5 m-0 mt-2 p-0"><label for="email">' . __('ایمیل(اختیاری)', 'arcade') . '</label> ' .
-                    ($req ? '<span class="required">*</span>' : '') .
-                    '<input id="email" class="form-control" name="email" type="text" value="' . esc_attr($commenter['comment_author_email']) .
-                    '" size="30"' . $aria_req . ' /></p>',
+
                 'author' =>
                 '<p class="form-group d-inline-block col-12 col-md-5 m-0 mt-2 p-0">' .
                     '<label for="author">' . __('نام', 'arcade') . '</label> ' .
                     ($req ? '<span class="required">*</span>' : '') .
                     '<input id="author" class="form-control" name="author" type="text" value="' . esc_attr($commenter['comment_author']) .
-                    '" size="30"' . $aria_req . ' /></p>',
+                    '" size="30" /></p>',
 
-
+                'email' =>
+                '<p class="form-group d-inline-block col-12 col-md-5 m-0 mt-2 p-0"><label for="email">' . __('ایمیل(اختیاری)', 'arcade') . '</label> ' .
+                    ($req ? '<span class="required">*</span>' : '') .
+                    '<input id="email" class="form-control" name="email" type="text" value="' . esc_attr($commenter['comment_author_email']) .
+                    '" size="30" /></p>',
                 'cookies' => ''
 
             )
@@ -61,6 +61,7 @@ if (post_password_required() || !comments_open())
                 'walker' => new Custom_Walker_Comment(),
                 'short_ping' => true,
                 'style' => 'ol',
+                'format' => 'html5'
             )
         );
         ?>

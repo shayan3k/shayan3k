@@ -84,7 +84,7 @@ ion-icon {
 
 .menu {
   background-color: #c63028 !important;
-  border-radius: 0.5rem;
+  border-radius: 0.2rem;
   height: 3rem;
 }
 
@@ -157,7 +157,9 @@ ion-icon {
   border-radius: 5px;
 }
 
-.sidebar {
+.sidebar-item {
+  padding: 0.3rem 0.3rem;
+  margin-bottom: 0.5rem;
   border-right: 7px solid #940404 !important;
 }
 
@@ -404,6 +406,19 @@ ion-icon {
 
 #reply-title {
   margin: 1.3rem 0;
+}
+
+.comment-reply-btn > a {
+  padding: 0.8rem 1.3rem;
+  background-color: #50fb83;
+  text-decoration: none;
+  color: white;
+  -webkit-transition: all 320ms;
+  transition: all 320ms;
+}
+
+.comment-reply-btn > a:hover {
+  background-color: rgba(80, 251, 131, 0.561);
 }
 
 footer {
