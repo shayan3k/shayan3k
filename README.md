@@ -16,9 +16,9 @@
   </div>
   
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MySQL&color=457B9D"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MongoDB&color=FFD166"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PostgreQSL&color=90A959"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MySQL&color=BF4342"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MongoDB&color=8FDC97"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PostgreQSL&color=D62828"/>
   </div>
 </a>
 
