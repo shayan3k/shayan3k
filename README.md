@@ -14,6 +14,12 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C%23&color=1D3557"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=SQL&color=F4989C"/>
   </div>
+  
+    <div align="center">
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MySQL&color=457B9D"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MongoDB&color=FFD166"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PostgreQSL&color=90A959"/>
+  </div>
 </a>
 
 ## Technical Skills
