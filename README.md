@@ -24,7 +24,7 @@
     
   <div align="center">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=React%20in%20NEXT.JS&color=0070F3"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3&20in%20NUXT.JS&color=4DE7A8"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3%20in%20NUXT.JS&color=4DE7A8"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=LARAVEL%E2%9D%A4%EF%B8%8F&color=F9322C"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REACT-NATIVE&color=61DAFB"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=DACC3E"/>
