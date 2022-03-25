@@ -6,7 +6,8 @@
 <a href="#">
   <h2 align="center">Technical Skills</h2>
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Python&color=90A959"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=JAVASCRIPT&color=FFD166"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PYTHON&color=90A959"/>
   </div>
   <p align="center">An energetic, imaginative and savvy system architect and web developer</p>
 </a>
