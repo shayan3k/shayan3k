@@ -3,6 +3,14 @@
   <p align="center">An energetic, imaginative and savvy system architect and web developer</p>
 </a>
 
+<a href="#">
+  <h2 align="center">Technical Skills</h2>
+  <div align="center">
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Python&color=90A959"/>
+  </div>
+  <p align="center">An energetic, imaginative and savvy system architect and web developer</p>
+</a>
+
 ## Technical Skills
 <div align="center">
 
