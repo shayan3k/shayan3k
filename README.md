@@ -23,13 +23,16 @@
   
     
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=React%20in%20next.js&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MongoDB&color=8FDC97"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PostgreQSL&color=D62828"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=React%20in%20NEXT.JS&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3&20in%20NUXT.JS&color=8FDC97"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=LARAVEL❤️&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REACT-NATIVE&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=ADONIS.JS&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=BD591A"/>
   </div>
-  
-  React in next.js, Vue in nuxtjs, React-Native for mobile devs, Laravel, Express.js, Adonis.js, Django
-  
+    
 </a>
 
 ## Technical Skills
