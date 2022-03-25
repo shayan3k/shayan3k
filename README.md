@@ -1,5 +1,9 @@
 <a href="#">
   <h2 align="center">Hi, <br>I am ShayaN</h2>
+  <p>
+            An energetic, imaginative and savvy system architect and web
+            developer
+  </p>
 </a>
 
 ## Technical Skills
