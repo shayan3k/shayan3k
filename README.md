@@ -7,7 +7,7 @@
 <div align="center">
 
   
-<img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Python&color=7289DA"/>
+<img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Python&color=90A959"/>
 <img src="https://img.shields.io/static/v1?style=flat&label=Join%20Community&message=<MESSAGE>&color=7289DA"/>
 <img src="https://img.shields.io/static/v1?style=flat&label=Join%20Community&message=<MESSAGE>&color=7289DA"/>
 <img src="https://img.shields.io/static/v1?style=flat&label=Join%20Community&message=<MESSAGE>&color=7289DA"/>
