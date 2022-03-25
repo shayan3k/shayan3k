@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MySQL&color=BD591A"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=MongoDB&color=8FDC97"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PostgreQSL&color=336690"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REDIS&color=710707"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REDIS&color=A70303"/>
   </div>
   
     
