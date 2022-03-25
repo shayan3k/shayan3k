@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=JAVASCRIPT&color=FFD166"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PYTHON&color=90A959"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PHP&color=E63946"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PHP&color=8892BF"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C%2B%2B/C&color=F1FAEE"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C%23&color=1D3557"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=SQL&color=F4989C"/>
@@ -23,14 +23,14 @@
   
     
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=React%20in%20NEXT.JS&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3&20in%20NUXT.JS&color=8FDC97"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=LARAVEL%E2%9D%A4%EF%B8%8F&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REACT-NATIVE&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=ADONIS.JS&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=BD591A"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=BD591A"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=React%20in%20NEXT.JS&color=0070F3"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3&20in%20NUXT.JS&color=4DE7A8"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=LARAVEL%E2%9D%A4%EF%B8%8F&color=F9322C"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REACT-NATIVE&color=61DAFB"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=DACC3E"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=ADONIS.JS&color=5A45FF"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=51BE95"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=FFFFFF"/>
   </div>
     
 </a>
