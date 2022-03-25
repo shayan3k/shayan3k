@@ -1,5 +1,4 @@
-<h2 align="center">Hi,</h2>
-<h2 align="center">I am ShayaN</h2>
+<h2 align="center">Hi,I am ShayaN</h2>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
