@@ -1,14 +1,11 @@
-<h2 align="center">Hi,I am ShayaN</h2>
+<h2 align="center">Hi, <br>I am ShayaN</h2>
 
 ## Technical Skills
 <div align="center">
   
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-
 <img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
 
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
 
 <i>A curated list of awesome Github Profile READMEs</i>
 
