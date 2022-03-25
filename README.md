@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=JAVASCRIPT&color=FFD166"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PYTHON&color=90A959"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PHP&color=E63946"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message='C++/C'&color=F1FAEE"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C#&color=1D3557"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C%2B%2B/C&color=F1FAEE"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=C%23&color=1D3557"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=SQL&color=F4989C"/>
   </div>
 </a>
