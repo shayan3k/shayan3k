@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=DACC3E"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=ADONIS.JS&color=5A45FF"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=51BE95"/>
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=FFFFFF"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
     
 </a>
