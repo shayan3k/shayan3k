@@ -1,12 +1,13 @@
 <a href="#">
-  <h2 align="center">Hi, <br>I am ShayaN</h2>
-  <p align="center">An energetic, imaginative and savvy system architect and web developer</p>
-    <p align="center">
-      <a href="https://motalebi.me/">
-        CHECK WHAT I HAVE BEEN DOING LATELY...
-      </a>
-      </p>
+### Hi there 👋
 
+I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands:
+
+🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+
+📫 How to reach me:
+
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
 </a>
 
 <a href="#">
