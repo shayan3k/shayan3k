@@ -13,7 +13,7 @@
   <h2 align="center">Technical Skills</h2>
 
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D" style="border-radius : 10px;"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=JAVASCRIPT&color=FFD166"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PYTHON&color=90A959"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PHP&color=8892BF"/>
