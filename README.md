@@ -6,7 +6,7 @@
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.motalebi.me)
+[![Website](https://img.shields.io/static/v1?label=&message=Personal%20Website&color=red)](https://motalebi.me) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.motalebi.me)
 
 <a href="#">
   <h2 align="center">Technical Skills</h2>
