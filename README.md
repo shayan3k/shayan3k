@@ -40,7 +40,11 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
 
+  <div align="center" style="margin-top: 30px;">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shayan3k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+  </div>
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
