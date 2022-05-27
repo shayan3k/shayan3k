@@ -8,7 +8,8 @@
 
 [![Website](https://img.shields.io/static/v1?label=&message=Personal%20Website&color=red)](https://motalebi.me) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.motalebi.me)
 
-<a href="#">
+&nbsp;&nbsp;&nbsp;
+
   <h2 align="center">Technical Skills</h2>
   <div align="center">
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D"/>
@@ -39,16 +40,16 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
 
-  <div align="center" style="margin-top: 70px;margin-bottom: 40px;">
+  <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
-  <div align="center" style="margin-top: 70px;margin-bottom: 40px;">
+  <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shayan3k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   </div>
 
-  <div align="center" style="margin-top: 70px;margin-bottom: 40px;">
+  <div align="center">
 
 <img alt="" width="400" src="https://github.com/shayan3k/shayan3k/raw/master/contribution.jpg" alt=""></img>
 
