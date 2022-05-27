@@ -11,8 +11,9 @@
 &nbsp;&nbsp;&nbsp;
 
   <h2 align="center">Technical Skills</h2>
+
   <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D"/>
+    <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=TYPESCRIPT&color=457B9D" style="border-radius : 10px;"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=JAVASCRIPT&color=FFD166"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PYTHON&color=90A959"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=PHP&color=8892BF"/>
@@ -39,22 +40,24 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=51BE95"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
-
+&nbsp;&nbsp;
   <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
+
+&nbsp;&nbsp;
 
   <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shayan3k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   </div>
-
+&nbsp;&nbsp;
   <div align="center">
 
 <img alt="" width="400" src="https://github.com/shayan3k/shayan3k/raw/master/contribution.jpg" alt=""></img>
 
 </div>
-
+&nbsp;&nbsp;
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 </a>
