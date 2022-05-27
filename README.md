@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shayan. I am a System Designer, FullStack Developer and System Administrator. :raised_hands:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7BF73&multiline=true&height=90&lines=I'm+Shayan.+I+am+a+System+Designer%2C+;FullStack+Developer+and+System;Administrator.+%3AD)](https://git.io/typing-svg)
 
 🔭 I’m currently looking for jobs in Australia :australia:
 
