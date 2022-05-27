@@ -7,7 +7,6 @@
       </a>
       </p>
 
-  
 </a>
 
 <a href="#">
@@ -40,6 +39,7 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=51BE95"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
-    
-</a>
 
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+</a>
