@@ -8,6 +8,8 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.motalebi.me)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <a href="#">
   <h2 align="center">Technical Skills</h2>
   <div align="center">
