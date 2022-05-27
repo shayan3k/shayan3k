@@ -1,14 +1,12 @@
-<a href="#">
 ### Hi there 👋
 
-I'm James. I love building utilities aimed at increasing Developer productivity :raised_hands:
+I'm Shayan. I am a System Designer, FullStack Developer and System Administrator. :raised_hands:
 
-🔭 I’m currently working on [MEVN-CLI](https://github.com/madlabsinc/mevn-cli)
+🔭 I’m currently looking for jobs in Australia :australia:
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
-</a>
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.motalebi.me)
 
 <a href="#">
   <h2 align="center">Technical Skills</h2>
