@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7A931&multiline=true&height=130&lines=Hi+there+%F0%9F%91%8B;I'm+Shayan.+%E3%8B%A1;I+am+a+System+Designer+%26%26;FullStack+Developer+%26%26;System+Adminestrator.++%E2%9C%8C%E2%9C%8C%E2%9C%8C)](https://git.io/typing-svg)
 
-🔭 I’m currently looking for jobs in Australia <span>AU<img src="https://emojiguide.org/images/emoji/8/1elf6is2xyvz8.png" width="20" height="20"></span>
+🔭 I’m currently looking for a job in Australia <span>AU<img src="https://emojiguide.org/images/emoji/8/1elf6is2xyvz8.png" width="20" height="20"></span>
 
 📫 How to reach me:
 
