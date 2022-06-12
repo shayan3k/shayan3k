@@ -50,12 +50,6 @@
 
   </div>
 &nbsp;&nbsp;
-  <div align="center">
-
-<img alt="" width="400" src="https://github.com/shayan3k/shayan3k/raw/master/contribution.jpg" alt=""></img>
-
-</div>
-&nbsp;&nbsp;
 
 ![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
