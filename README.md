@@ -31,11 +31,6 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Vue3%20in%20NUXT.JS&color=4DE7A8"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=LARAVEL%E2%9D%A4%EF%B8%8F&color=F9322C"/>
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=REACT-NATIVE&color=61DAFB"/>
-
-    <!--- <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=EXPRES.JS&color=DACC3E"/> --->  
-    <!--- <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=ADONIS.JS&color=5A45FF"/> --->  
-    <!--- <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=DJANGO&color=51BE95"/> --->  
-    <!--- <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/> --->  
   </div>
 &nbsp;&nbsp;
 
