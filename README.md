@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7A931&multiline=true&height=130&lines=Hi+there+%F0%9F%91%8B;I'm+Shayan.+%E3%8B%A1;I+love+technologies.++%E2%9C%8C%E2%9C%8C%E2%9C%8C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7A931&multiline=true&height=130&lines=Hi+there+%F0%9F%91%8B;I'm+Shayan.+%E3%8B%A1++%E2%9C%8C%E2%9C%8C%E2%9C%8C)
 
 📫 How to reach me:
 
@@ -37,18 +37,6 @@
     <img src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=NEST.JS&color=DDEBE9"/>
   </div>
 &nbsp;&nbsp;
-  <div align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></div>
 
-&nbsp;&nbsp;
-
-  <div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shayan3k&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  </div>
-&nbsp;&nbsp;
-
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 </a>
