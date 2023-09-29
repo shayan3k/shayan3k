@@ -1,10 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7A931&multiline=true&height=130&lines=Hi+there+%F0%9F%91%8B;I'm+Shayan.+%E3%8B%A1++%E2%9C%8C%E2%9C%8C%E2%9C%8C)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&color=F7A931&multiline=true&height=60&lines=Hi+there+%F0%9F%91%8B;I'm+Shayan.+%E3%8B%A1++%E2%9C%8C%E2%9C%8C%E2%9C%8C)
 
 📫 How to reach me:
 
 [![Website](https://img.shields.io/static/v1?label=&message=Personal%20Website&color=red)](https://shayan3k.github.io) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/shayan-motalebi/)
 
-&nbsp;&nbsp;&nbsp;
 
   <h2 align="center">Technical Skills</h2>
 
